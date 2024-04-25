@@ -1,0 +1,106 @@
+@media screen, print and (orientation: portrait){
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+body{
+    background-image: url("SkBg.jpg");
+    background-repeat: no-repeat;
+}
+.made p{
+    color: white;
+    margin-left: 83.5rem;
+}
+.made img{
+    margin-left: 85rem;
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    margin-top: 1rem;
+    margin-left: 42rem;
+    display: flex;
+    height: 150px;
+}
+.logo img{
+    margin-top: -2rem;
+    margin-left:rem;
+    background-color: transparent;
+    height: 300px;
+    width: 250px;
+}
+.logo_para p{
+    color: white;
+    margin-left: 40rem;
+    margin-top: -2rem;
+    font-size: 35px;
+    font-family: "Audiowide", sans-serif;
+}
+.prdt1{
+    margin-top: 8rem;
+    margin-left: 10rem;
+}
+.prdt2{
+    margin-top: -10rem;
+    margin-left: 48rem;
+}
+.prdt3{
+    margin-top:2rem;
+    margin-left: 8rem;
+}
+.prdt4{
+    margin-top: -10rem;
+    margin-left: 48rem;
+}
+.prdt1 img{
+    width: 600px;
+    height: 150px;
+    background: transparent;
+}
+.prdt2 img{
+    width: 600px;
+    height: 150px;
+    background: transparent;
+}
+.prdt3 img{
+    width: 600px;
+    height: 150px;
+    background: transparent;
+}
+.prdt4 img{
+    width: 600px;
+    height: 150px;
+    background: transparent;
+}
+.prdt1 p{
+    color: white;
+    margin-left: 16rem;
+}
+.prdt2 p{
+    color: white;
+    margin-left: 16rem;
+}
+.prdt3 p{
+    color: white;
+    margin-left: 16rem;
+}
+.prdt4 p{
+    color: white;
+    margin-left: 16rem;
+}
+.rsn p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: flex-end;
+    color: white;
+    margin-top: 6rem;
+    margin-left: 1rem;
+}
+.desc p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    margin-left: 1rem;
+}
+}
