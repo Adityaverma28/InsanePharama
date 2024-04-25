@@ -25,11 +25,18 @@ body{
     height: 150px;
 }
 .logo img{
-    margin-top: -2rem;
+    margin-top: -0.4rem;
     margin-left:rem;
     background-color: transparent;
-    height: 300px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
+}
+.logo p{
+    color: white;
+    font-size: 45px;
+    margin-top: 12rem;
+    margin-left: -17rem;
+    font-family: "Audiowide", sans-serif;
 }
 .logo_para p{
     color: white;
