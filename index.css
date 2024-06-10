@@ -14,9 +14,10 @@ body{
     margin-left: 83.5rem;
 }
 .made img{
+    margin-top: -2rem;
     margin-left: 85rem;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 150px;
 }
 .logo{
     margin-top: 1rem;
@@ -45,57 +46,49 @@ body{
     font-size: 35px;
     font-family: "Audiowide", sans-serif;
 }
-.prdt1{
-    margin-top: 8rem;
-    margin-left: 10rem;
-}
-.prdt2{
-    margin-top: -10rem;
-    margin-left: 48rem;
-}
-.prdt3{
-    margin-top:2rem;
-    margin-left: 8rem;
-}
-.prdt4{
-    margin-top: -10rem;
-    margin-left: 48rem;
-}
 .prdt1 img{
-    width: 600px;
-    height: 150px;
+    margin-top: 7rem;
+    margin-left: 13rem;
+    width: 450px;
+    height: 200px;
     background: transparent;
 }
 .prdt2 img{
-    width: 600px;
-    height: 150px;
+    margin-top: -45rem;
+    margin-left: 52rem;
+    width: 450px;
+    height: 200px;
     background: transparent;
 }
 .prdt3 img{
-    width: 600px;
-    height: 150px;
+    margin-top: 2rem;
+    margin-left: 12rem;
+    width: 450px;
+    height: 230px;
     background: transparent;
 }
 .prdt4 img{
-    width: 600px;
-    height: 150px;
+    margin-top: -28rem;
+    margin-left: 52rem;
+    width: 450px;
+    height: 200px;
     background: transparent;
 }
 .prdt1 p{
-    color: white;
-    margin-left: 16rem;
+    color: red;
+    margin-left: 25rem;
 }
 .prdt2 p{
-    color: white;
-    margin-left: 16rem;
+    color: red;
+    margin-left: 63rem;
 }
 .prdt3 p{
-    color: white;
-    margin-left: 16rem;
+    color: red;
+    margin-left: 25rem;
 }
 .prdt4 p{
-    color: white;
-    margin-left: 16rem;
+    color: red;
+    margin-left: 63rem;
 }
 .rsn p{
     font-size: 30px;
