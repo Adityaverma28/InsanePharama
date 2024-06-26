@@ -7,7 +7,7 @@
 }
 body{
     background-image: url("SkBg.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 .made p{
     color: white;
@@ -17,7 +17,7 @@ body{
     margin-top: -2rem;
     margin-left: 85rem;
     height: 200px;
-    width: 150px;
+    width: 180px;
 }
 .logo{
     margin-top: 1rem;
@@ -76,7 +76,7 @@ body{
 }
 .prdt1 p{
     color: red;
-    margin-left: 25rem;
+    margin-left: 20rem;
 }
 .prdt2 p{
     color: red;
@@ -84,7 +84,7 @@ body{
 }
 .prdt3 p{
     color: red;
-    margin-left: 25rem;
+    margin-left: 20rem;
 }
 .prdt4 p{
     color: red;
