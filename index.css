@@ -74,21 +74,65 @@ body{
     height: 200px;
     background: transparent;
 }
+.prdt5 img{
+    margin-top: 4rem;
+    margin-left: 12rem;
+    width: 450px;
+    height: 200px;
+    background: transparent;
+}
+.prdt6 img{
+    margin-top:  -15rem;
+    margin-left: 52rem;
+    width: 450px;
+    height: 200px;
+    background: transparent;
+}
+.prdt7 img{
+    margin-top: 4rem;
+    margin-left: 12rem;
+    width: 450px;
+    height: 200px;
+    background: transparent;
+}
+.prdt8 img{
+    margin-top:  -15rem;
+    margin-left: 52rem;
+    width: 450px;
+    height: 200px;
+    background: transparent;
+}
 .prdt1 p{
     color: red;
-    margin-left: 20rem;
+    margin-left: 19rem;
 }
 .prdt2 p{
     color: red;
-    margin-left: 63rem;
+    margin-left: 60rem;
 }
 .prdt3 p{
     color: red;
-    margin-left: 20rem;
+    margin-left: 19rem;
 }
 .prdt4 p{
     color: red;
-    margin-left: 63rem;
+    margin-left: 60rem;
+}
+.prdt5 p{
+    color: red;
+    margin-left: 18rem;
+}
+.prdt6 p{
+    color: red;
+    margin-left: 58rem;
+}
+.prdt7 p{
+    color: red;
+    margin-left: 18rem;
+}
+.prdt8 p{
+    color: red;
+    margin-left: 58rem;
 }
 .rsn p{
     font-size: 30px;
